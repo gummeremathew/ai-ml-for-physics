@@ -1,0 +1,5 @@
+title: AI for Physics
+author: Mathew C. Gummere
+execute:
+  execute_notebooks: "off"
+exclude_patterns: [admin/*]
