@@ -1,6 +1,7 @@
 format: jb-book
 root: intro
 chapters:
+  - file: syllabus
   - file: units/01-clustering/README
   - file: units/02-cnn/README
   - file: units/03-transformers/README
