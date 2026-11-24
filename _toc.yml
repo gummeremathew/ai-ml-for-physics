@@ -2,7 +2,5 @@ format: jb-book
 root: intro
 chapters:
   - file: syllabus
-  - file: units/01-clustering/README
-  - file: units/02-cnn/README
-  - file: units/03-transformers/README
-  - file: units/04-diffusion/README
+  - file: clustering_lecture
+  - file: clustering_assignment_student
