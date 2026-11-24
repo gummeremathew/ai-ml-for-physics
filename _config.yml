@@ -3,3 +3,12 @@ author: Mathew C. Gummere
 execute:
   execute_notebooks: "off"
 exclude_patterns: [admin/*]
+logo: logo.png
+repository:
+  url: https://github.com/gummeremathew/ai-for-physics
+  branch: main
+html:
+  use_repository_button: true
+  use_issues_button: true
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
